@@ -1,0 +1,18 @@
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\bin\Debug\FPaint.exe.config
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\bin\Debug\FPaint.exe
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\bin\Debug\FPaint.pdb
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.csprojResolveAssemblyReference.cache
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.FPaint.resources
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.Properties.Resources.resources
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.csproj.GenerateResource.Cache
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.exe
+c:\users\arkad_000\documents\visual studio 2012\Projects\FPaint\FPaint\obj\Debug\FPaint.pdb
+E:\Projects\FPaint\FPaint\bin\Debug\FPaint.exe.config
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.exe
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.pdb
+E:\Projects\FPaint\FPaint\bin\Debug\FPaint.exe
+E:\Projects\FPaint\FPaint\bin\Debug\FPaint.pdb
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.FPaint.resources
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.Properties.Resources.resources
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.csproj.GenerateResource.Cache
+E:\Projects\FPaint\FPaint\obj\Debug\FPaint.csprojResolveAssemblyReference.cache

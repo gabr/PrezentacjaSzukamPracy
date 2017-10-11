@@ -1,0 +1,9 @@
+E:\Projects\FPaint\FPaint\bin\Release\FPaint.exe.config
+E:\Projects\FPaint\FPaint\bin\Release\FPaint.exe
+E:\Projects\FPaint\FPaint\bin\Release\FPaint.pdb
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.csprojResolveAssemblyReference.cache
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.FPaint.resources
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.Properties.Resources.resources
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.csproj.GenerateResource.Cache
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.exe
+E:\Projects\FPaint\FPaint\obj\Release\FPaint.pdb
